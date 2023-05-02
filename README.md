@@ -1,2 +1,2 @@
 # HWID-Checker
-Tools and sources to check your hwid
+sources to check your hwid
